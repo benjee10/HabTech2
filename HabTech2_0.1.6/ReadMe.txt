@@ -43,6 +43,14 @@ CHANGELOG
 	- Added MPLM.
 	- Corrected rotation of some existing parts.
 	- Rebalanced thermal tolerances. 
+0.1.6 - PUBLIC RELEASE - USOS PRESSURISED COMPONENT COMPLETE
+	- Added Cupola module
+	- Config polish
+	- Collider polish on most parts
+	- Tweaked science lab values
+	- Tweaked thermal values
+	- Tweaked costs
+	- Added ladder colliders to most parts
 
 LICENSE
 HabTech 2 artwork is copyright Benedict Jewer 2019. All Rights Reserved. 
