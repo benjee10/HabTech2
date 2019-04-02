@@ -67,6 +67,10 @@ CHANGELOG
 	- Added bearing variant for truss connector port. 
 	- Added Z1 truss.
 	- Updated textures for S5/S6 truss elements.
+0.2.1 - PRE-RELEASE
+	- Added IVA for Cupola module. 
+	- Bundled HabTechProps. 
+	- Added patch for TAC LS. 
 
 LICENSE
 HabTech 2 artwork is copyright Benedict Jewer 2019. All Rights Reserved. 
