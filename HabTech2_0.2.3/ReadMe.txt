@@ -82,6 +82,9 @@ CHANGELOG
 	- Amended drag cubes on Solar Array Wing to allow game loading (TEMPORARY FIX)
 	- Set physicsSignificance to 1 on Solar Array Wing to avoid spontaneous combustion (TEMPORARY FIX)
 	- Converted all textures to DDS
+0.2.4 - PUBLIC RELEASE
+	- Fixed solar array spawn bug!
+	- Updated Benjee10_sharedAssets
 
 LICENSE
 HabTech 2 artwork is copyright Benedict Jewer 2020. All Rights Reserved. 
