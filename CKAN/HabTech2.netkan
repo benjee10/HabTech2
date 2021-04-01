@@ -1,0 +1,36 @@
+{
+  "spec_version"        : "v1.4",
+  "identifier"          : "HabTech2",
+  "$kref"               : "#/ckan/github/benjee10/HabTech2",
+  "abstract"            : "ISS-inspired space station parts for KSP",
+  "author"              : "benjee10",
+  "license"             : "restricted",
+  "release_status"      : "stable",
+  "$vref"               : "#/ckan/ksp-avc",
+  "resources": {
+    "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/133501-1101-habtech2-stockalike-iss-parts-023-un-broken-edition/",
+    "repository": "https://github.com/benjee10/HabTech2"
+  },
+  "depends": [
+      { "name" : "Benjee10sharedAssets" },
+      { "name" : "HabTechProps" },
+      { "name" : "ModuleManager" },
+      { "name" : "B9PartSwitch" },
+      { "name" : "CommunityResourcePack" }
+  ],
+  "suggests": [
+      { "name" : "reDIRECT" },
+      { "name" : "Shuttle-Orbiter-Construction-Kit" },
+      { "name" : "NewTantares" }
+  ],
+  "install" : [
+      { "find" : "HabTech2",
+        "install_to" : "GameData"
+      }
+  ],
+  "tags": [
+      "crewed",
+      "parts",
+      "science"
+]
+}
