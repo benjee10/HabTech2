@@ -19,18 +19,11 @@
       { "name" : "CommunityResourcePack" }
   ],
   "suggests": [
-      { "name" : "reDIRECT" },
-      { "name" : "Shuttle-Orbiter-Construction-Kit" },
       { "name" : "NewTantares" }
   ],
   "install" : [
       { "find" : "HabTech2",
         "install_to" : "GameData"
       }
-  ],
-  "tags": [
-      "crewed",
-      "parts",
-      "science"
-]
+  ]
 }
