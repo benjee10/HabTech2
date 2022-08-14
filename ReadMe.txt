@@ -1,11 +1,15 @@
-HABTECH 2 0.2.5
+HABTECH 2 0.2.6 DEV VERSION
 A mod for Kerbal Space Program 1.11.0+ by Benjee10. 
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory. 
-This mod bundles COMMUNITY RESOURCE PACK, BENJEE10_SHAREDASSETS and B9PARTSWITCH, which are distributed under their respective licenses. 
 
 DEPENDENCIES
+- Community Resource Pack
+- B9PartSwitch
+- Shaddy
+- Shabby
+
 Plays nice with reDIRECT, Shuttle Orbiter Construction Kit, Tantares, BlueDog Design Bureau, Cormorant Aeronology, SSPXR and Tundra Exploration. 
 
 
