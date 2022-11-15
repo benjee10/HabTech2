@@ -7,8 +7,9 @@ Place the contents of GameData/ into your KSP/GameData/ directory.
 DEPENDENCIES
 - Community Resource Pack
 - B9PartSwitch
-- Shaddy
-- Shabby
+
+OPTIONAL DEPENDENCIES
+- Shaddy & Textures Unlimited
 
 Plays nice with reDIRECT, Shuttle Orbiter Construction Kit, Tantares, BlueDog Design Bureau, Cormorant Aeronology, SSPXR and Tundra Exploration. 
 
