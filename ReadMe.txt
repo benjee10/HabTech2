@@ -92,6 +92,79 @@ CHANGELOG
 	- Updated Benjee10_sahredAssets (added new APAS model, deprecated old APAS part)
 	- Fixed radiator drag cubes
 	- Added stock inventory support. CBM & APAS not currently constructible due to stock bug. 
+0.2.6 
+	REVAMPED PARTS
+	- Revamped Integrated Truss Structure Parts (S0, P/S1, P/S3)
+	- Revamped Z1 Truss part
+	- Revamped Dual-Axis Solar Arrays & added additional variants
+	- Revamped ITS Radiator part
+	- Revamped Pressurised Mating Adapter part
+
+	NEW PARTS
+	- Added iROSA panels
+	- Added Japanese Experiment Module external experiment parts (x5)
+	- Added Japanese Experiment Module science docking port
+	- Added Bigelow Expandable Activities Module part
+	- Added NanoRacks Bishop Airlock part
+	- Added additional Integrated Truss Structure parts
+	- Added additional truss connection system parts
+	- Added Space Station Freedom Propulsion Module & Propellant Module parts
+	- Added Express Logistics Carrier (ELC) and External Stowage Platform (ESP) parts
+	- Added Alpha Magnetic Spectrometer part
+	- Added Z1 swing and fixed SGANT antenna parts
+	- Added External Camera & Lighting Assembly mast part
+	- Added WETA Antenna mast part
+	- Added FPMU Science mast part
+	- Added S-Band Antenna mast part
+	- Added UHF Boom Antenna part
+	- Added Ammonia Tank Assembly part
+	- Added ISS-style battery part
+	- Added ISS-style strut part
+	- Added Mobile Transporter & Mobile Base System parts
+
+	IMPROVEMENTS
+	- Added white variant to pressurised modules
+	- Improved handrail model on all parts
+	- Added blue handrail variant on all parts
+
+	INTERNALS
+	- Added simple IVAs for all pressurised modules
+
+	FIXES
+	- Fixed broken normals on Cupola IVA
+	- Adjusted part balance
+	- Adjusted names, tags and descriptions for clarity
+	- Corrected orientation of JEM Logistics module
+
+	DEPENDENCIES
+	- Removed old Common Berthing Mechanism part
+	- Updated Benjee10_sharedAssets:
+		- Added revamped Common Berthing Mechanism (CBM) parts - Passive, Active I and Active II
+	- Updated HabTechRobotics:
+		- Added Canadarm2 Boom, Servo and Latching End Effector parts
+		- Revamped Power-Data Grapple Fixture (PDGF) part and added additional variants
+		- Added JEM RMS parts [TBA]
+		- Adjusted traverse rates and part balance
+		- Texture improvements
+	- Bundled Benjee10_sharedAssets
+	- Bundled htRobotics
+
+	COMPATIBILITY
+	- Added support for Shaddy shaders via TU
+	- Added support for Neptune Camera
+	- Added support for Custom Category Kit [TBA]
+	- Deprecated revamped parts where a drop-in replacement is not possible
+	- CBM ports on legacy craft will become CBM (passive) type
+
+	CRAFT FILES [TBA]
+	- Added craft files:
+		- INTERNATIONAL SPACE STATION US ORBITAL SECTION (2023)
+		- SPACE STATION FREEDOM (1991)
+
+	- Added craft files featuring Tantares:
+		- INTERNATIONAL SPACE STATION (2003)
+		- INTERNATIONAL SPACE STATION (2011)
+		- INTERNATIONAL SPACE STATION (2023)
 
 LICENSE
-HabTech 2 artwork is copyright Benedict Jewer 2021. All Rights Reserved. 
+HabTech2 artwork is copyright Benedict Jewer 2023. All Rights Reserved. 
