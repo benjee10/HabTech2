@@ -8,11 +8,10 @@ DEPENDENCIES
 - Community Resource Pack
 - B9PartSwitch
 
-OPTIONAL DEPENDENCIES
-- Shaddy & Textures Unlimited
-
-Plays nice with reDIRECT, Shuttle Orbiter Construction Kit, Tantares, BlueDog Design Bureau, Cormorant Aeronology, SSPXR and Tundra Exploration. 
-
+COMPATIBILITY
+- Shaddy & Textures Unlimited - provides translucent shaders for solar array parts
+- Neptune Camera - provides camera functionality for camera mast part
+- Waterfall - Waterfall FX are provided for lights and RCS thrusters
 
 
 CHANGELOG
@@ -47,14 +46,15 @@ CHANGELOG
 	- Added ISS-style strut part
 	- Added Mobile Transporter & Mobile Base System parts
 
+	INTERNALS
+	- Added simple IVAs for all pressurised modules
+
 	IMPROVEMENTS
 	- Added white variant to pressurised modules
 	- Improved handrail model on all parts
 	- Added blue handrail variant on all parts
 	- Added mount variants for Japanese Experiment Module Exposed Facility
-
-	INTERNALS
-	- Added simple IVAs for all pressurised modules
+	- Added iROSA panels as part switches for SAW parts
 
 	FIXES
 	- Fixed broken normals on Cupola IVA
