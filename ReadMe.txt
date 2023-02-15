@@ -39,6 +39,7 @@ COMPATIBILITY
 - Neptune Camera - provides camera functionality for camera mast part
 - Waterfall - Waterfall FX are provided for lights and RCS thrusters
 - Limited support for TAC LS
+- Community Category Kit - adapted from configs by Lennon
 
 
 CHANGELOG
@@ -212,4 +213,4 @@ CHANGELOG
 	- Added Common Berthing Mechanism
 
 LICENSE
-HabTech2 artwork is copyright Benedict Jewer 2023. All Rights Reserved. 
+HabTech2 artwork is copyright Benedict Jewer 2019-2023. All Rights Reserved. 
