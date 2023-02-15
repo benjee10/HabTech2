@@ -1,22 +1,49 @@
 HABTECH 2 1.0.0 DEV VERSION
 A mod for Kerbal Space Program 1.11.0+ by Benjee10. 
 
+Featuring parts designed to replicate the US Orbital Section (USOS) of the International Space Station, including:
+- Pressurised modules & cupola
+- Integrated Truss Structure & solar arrays, including iROSA
+- External payloads & experiments
+- Other structural pieces, science parts and antennas
+- Canadarm2 & Mobile Base System
+- New additions to the ISS such as BEAM, Bishop airlock, and more
+
+Tantares is recommended to build the Russian Orbital Section (ROS) 
+
+CRAFT FILES [TBA]
+The following craft files will be included in the final release: 
+- International Space Station US Orbital Section (2023)
+- International Space Station (2023)*
+- International Space Station (2011)*
+- International Space Station (2003)*
+- Space Station Freedom (1991 baseline)
+
+* = requires Tantares for ROS parts
+
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory. 
 
 DEPENDENCIES
+All dependencies are bundled with the release:
+
+- Module Manager
 - Community Resource Pack
 - B9PartSwitch
+- Benjee10 Shared Assets
+- HabTech Props
+- HabTech Robotics
 
 COMPATIBILITY
 - Shaddy & Textures Unlimited - provides translucent shaders for solar array parts
 - Neptune Camera - provides camera functionality for camera mast part
 - Waterfall - Waterfall FX are provided for lights and RCS thrusters
+- Limited support for TAC LS
 
 
 CHANGELOG
 
-1.0.0
+1.0.0 - FINAL MAJOR UPDATE
 	REVAMPED PARTS
 	- Revamped Integrated Truss Structure Parts (S0, P/S1, P/S3)
 	- Revamped Z1 Truss part
