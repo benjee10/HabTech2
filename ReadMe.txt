@@ -11,9 +11,9 @@ Featuring parts designed to replicate the US Orbital Section (USOS) of the Inter
 
 Tantares is recommended to build the Russian Orbital Section (ROS) 
 
-CRAFT FILES [TBA]
-The following craft files will be included in the final release: 
-- International Space Station US Orbital Section (2023)
+CRAFT FILES
+The following craft files are included: 
+- International Space Station - USOS (2023)
 - International Space Station (2023)*
 - International Space Station (2011)*
 - International Space Station (2003)*
@@ -23,9 +23,10 @@ The following craft files will be included in the final release:
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory. 
+If you already have HabTech2, benjee10_sharedAssets or htRobotics installed, please delete the existing mod folders in your GameData directory before installing the new versions to avoid compatibility issues.
 
 DEPENDENCIES
-All dependencies are bundled with the release:
+All hard dependencies are bundled with the release:
 
 - Module Manager
 - Community Resource Pack
@@ -73,6 +74,7 @@ CHANGELOG
 	- Added ISS-style battery part
 	- Added ISS-style strut part
 	- Added Mobile Transporter & Mobile Base System parts
+	- Added spherical node modules (1.875m)
 
 	INTERNALS
 	- Added simple IVAs for all pressurised modules
@@ -94,6 +96,7 @@ CHANGELOG
 	- Removed old Common Berthing Mechanism part
 	- Updated Benjee10_sharedAssets:
 		- Added revamped Common Berthing Mechanism (CBM) parts - Passive, Active I and Active II
+		- Added hybrid APAS/SSVP ports (male & female) used on ROS
 	- Updated HabTechRobotics:
 		- Added Canadarm2 Boom, Servo and Latching End Effector parts
 		- Revamped Power-Data Grapple Fixture (PDGF) part and added additional variants
