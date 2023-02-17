@@ -1,5 +1,5 @@
 HABTECH 2 1.0.0 DEV VERSION
-A mod for Kerbal Space Program 1.11.0+ by Benjee10. 
+A mod for Kerbal Space Program [Breaking Ground Expansion] 1.11.0+ by Benjee10. 
 
 Featuring parts designed to replicate the US Orbital Section (USOS) of the International Space Station, including:
 - Pressurised modules & cupola
@@ -34,6 +34,8 @@ All hard dependencies are bundled with the release:
 - Benjee10 Shared Assets
 - HabTech Props
 - HabTech Robotics
+
+You will also need Kerbal Space Program Breaking Ground DLC for robotics parts. 
 
 COMPATIBILITY
 - Shaddy & Textures Unlimited - provides translucent shaders for solar array parts
