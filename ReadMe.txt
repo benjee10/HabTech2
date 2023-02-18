@@ -19,7 +19,7 @@ The following craft files are included:
 - International Space Station (2003)*
 - Space Station Freedom (1991 baseline)
 
-* = requires Tantares for ROS parts
+* = requires Tantares for ROS parts. ROS craft files by Zarbon
 
 INSTALLATION
 Place the contents of GameData/ into your KSP/GameData/ directory. 
