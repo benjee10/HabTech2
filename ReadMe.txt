@@ -1,4 +1,4 @@
-HABTECH 2 1.0.0 DEV VERSION
+HABTECH 2 1.0.0 PUBLIC RELEASE
 A mod for Kerbal Space Program [Breaking Ground Expansion] 1.11.0+ by Benjee10. 
 
 Featuring parts designed to replicate the US Orbital Section (USOS) of the International Space Station, including:
@@ -115,7 +115,7 @@ CHANGELOG
 	- Deprecated revamped parts where a drop-in replacement is not possible
 	- CBM ports on legacy craft will become CBM (passive) type
 
-	CRAFT FILES [TBA]
+	CRAFT FILES
 	- Added craft files:
 		- INTERNATIONAL SPACE STATION US ORBITAL SECTION (2023)
 		- SPACE STATION FREEDOM (1991)
