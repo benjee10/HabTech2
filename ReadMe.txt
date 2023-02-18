@@ -219,3 +219,4 @@ CHANGELOG
 
 LICENSE
 HabTech2 artwork is copyright Benedict Jewer 2019-2023. All Rights Reserved. 
+Dependencies are bundled under their respective licenses. 
