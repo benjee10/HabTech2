@@ -1,5 +1,5 @@
-HABTECH 2 1.0.0 PUBLIC RELEASE
-A mod for Kerbal Space Program [Breaking Ground Expansion] 1.11.0+ by Benjee10. 
+HABTECH 2 1.1.0 DEV VERSION
+A mod for Kerbal Space Program [Breaking Ground Expansion] 1.12.x by Benjee10. 
 
 Featuring parts designed to replicate the US Orbital Section (USOS) of the International Space Station, including:
 - Pressurised modules & cupola
@@ -46,6 +46,9 @@ COMPATIBILITY
 
 
 CHANGELOG
+
+1.1.0 - DEV VERSION
+	- Fixed issue with some truss connector ports lacking a dockingNode transform
 
 1.0.0 - FINAL MAJOR UPDATE
 	REVAMPED PARTS
