@@ -51,6 +51,8 @@ CHANGELOG
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
 	- Added InventoryUpgrades plugin by ValiZockt
 	- iROSA panels now added via InvetoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
+	- Added 'SCRAM' ACRV command module part
+	- Added 'SCRAM' parachute part
 	- Updated craft files
 
 1.0.0 - FINAL MAJOR UPDATE
