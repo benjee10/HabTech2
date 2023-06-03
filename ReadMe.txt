@@ -48,11 +48,21 @@ COMPATIBILITY
 CHANGELOG
 
 1.1.0 - DEV VERSION
-	- Fixed issue with some truss connector ports lacking a dockingNode transform
-	- Added InventoryUpgrades plugin by ValiZockt
-	- iROSA panels now added via InvetoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
+	NEW PARTS
 	- Added 'SCRAM' ACRV command module part
 	- Added 'SCRAM' parachute part
+	- Added SSF Hangar part
+
+	IMPROVEMENTS
+	- iROSA panels now added via InvetoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
+	- Added KAL controller to relevant parts
+	- Rebalanced SGANT antenna part masses
+
+	FIXES
+	- Fixed issue with some truss connector ports lacking a dockingNode transform
+	- Added InventoryUpgrades plugin by ValiZockt
+
+	CRAFT FILES
 	- Updated craft files
 
 1.0.0 - FINAL MAJOR UPDATE
