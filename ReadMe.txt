@@ -53,6 +53,7 @@ CHANGELOG
 	- Added 'SCRAM' parachute part
 	- Added SSF Hangar part
 	- Added 3.75m space station parts
+	- Added 5m space station parts
 
 	IMPROVEMENTS
 	- iROSA panels now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
