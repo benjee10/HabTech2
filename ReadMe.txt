@@ -55,11 +55,13 @@ CHANGELOG
 	- Added 3.75m space station parts
 	- Added 5m space station parts
 	- Added additional generic 2.5m & 1.25m space station parts
+	- Added standalone ISS radiator array
 
 	IMPROVEMENTS
 	- iROSA panels now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
 	- Added KAL controller to relevant parts
 	- Rebalanced SGANT antenna part masses
+	- Adjusted part naming for consistency
 
 	FIXES
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
