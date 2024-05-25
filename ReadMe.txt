@@ -57,6 +57,7 @@ CHANGELOG
 	- Added additional generic 2.5m & 1.25m space station parts
 	- Added standalone ISS radiator array
 	- Added half-length ISS solar array
+	- Added straight conical PMA (1.25m to 0.9375m) parts
 
 	IMPROVEMENTS
 	- iROSA panels now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
