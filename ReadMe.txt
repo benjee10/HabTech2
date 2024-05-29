@@ -55,7 +55,8 @@ CHANGELOG
 	- Added 3.75m space station parts
 	- Added 5m space station parts
 	- Added additional generic 2.5m & 1.25m space station parts
-	- Added standalone ISS radiator array
+	- Added standalone ISS radiator part
+	- Added standalone ISS SAW radiator part
 	- Added half-length ISS solar array
 	- Added straight conical PMA (1.25m to 0.9375m) parts
 
@@ -64,10 +65,14 @@ CHANGELOG
 	- Added KAL controller to relevant parts
 	- Rebalanced SGANT antenna part masses
 	- Adjusted part naming for consistency
+	- Rebalanced radiators
 
 	FIXES
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
 	- Added InventoryUpgrades plugin by ValiZockt
+
+	COMPATIBILITY
+	- Added (WIP) SystemHeat patch
 
 	CRAFT FILES
 	- Updated craft files
