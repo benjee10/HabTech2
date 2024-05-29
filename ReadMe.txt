@@ -54,7 +54,8 @@ CHANGELOG
 	- Added SSF Hangar part
 	- Added 3.75m space station parts
 	- Added 5m space station parts
-	- Added additional generic 2.5m & 1.25m space station parts
+	- Added additional generic 2.5m space station parts
+	- Added 1.25m compact & inline airlock parts
 	- Added standalone ISS radiator part
 	- Added standalone ISS SAW radiator part
 	- Added half-length ISS solar array
