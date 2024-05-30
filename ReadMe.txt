@@ -60,6 +60,7 @@ CHANGELOG
 	- Added standalone ISS SAW radiator part
 	- Added half-length ISS solar array
 	- Added straight conical PMA (1.25m to 0.9375m) parts
+	- Added heavy-duty RCS parts
 
 	IMPROVEMENTS
 	- iROSA panels now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
