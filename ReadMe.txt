@@ -68,16 +68,19 @@ CHANGELOG
 	- Rebalanced SGANT antenna part masses
 	- Adjusted part naming for consistency
 	- Rebalanced radiators
+	- Updated hatch/endcap art for 1.25m and 0.9375m nodes (WIP)
+	- Updated airlock design with animated thermal cover
+	- Added switchable trunnion pins for 2.5m parts
 
 	FIXES
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
 	- Added InventoryUpgrades plugin by ValiZockt
 
 	COMPATIBILITY
-	- Added (WIP) SystemHeat patch
+	- Added SystemHeat patch (WIP)
 
 	CRAFT FILES
-	- Updated craft files
+	- Updated craft files (WIP)
 
 1.0.0 - FINAL MAJOR UPDATE
 	REVAMPED PARTS
