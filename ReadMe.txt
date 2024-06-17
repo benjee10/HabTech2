@@ -52,15 +52,15 @@ CHANGELOG
 	- Added 'SCRAM' ACRV command module part
 	- Added 'SCRAM' parachute part
 	- Added SSF Hangar part
-	- Added 3.75m space station parts
-	- Added 5m space station parts
-	- Added additional generic 2.5m space station parts
+	- Added 3.75m space station parts (short & long tab modules, logistics module, node module, conical 2.5m->3.75m hab module)
+	- Added 5m space station parts (short & long tab modules, logistics module, node module, conical 3.75m->5m hab module)
+	- Added additional generic 2.5m space station parts (node & hab)
 	- Added 1.25m compact & inline airlock parts
 	- Added standalone ISS radiator part
 	- Added standalone ISS SAW radiator part
 	- Added half-length ISS solar array
 	- Added straight conical PMA (1.25m to 0.9375m) parts
-	- Added heavy-duty RCS parts
+	- Added heavy-duty RCS parts (10 variants)
 
 	IMPROVEMENTS
 	- iROSA panels now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
