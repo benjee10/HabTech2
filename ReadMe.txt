@@ -71,6 +71,8 @@ CHANGELOG
 	- Updated hatch/endcap art for 1.25m and 0.9375m nodes (WIP)
 	- Updated airlock design with animated thermal cover
 	- Added switchable trunnion pins for 2.5m parts
+	- Updated legacy textures (WIP)
+	- Added new reflective variant to pressurised modules (WIP)
 
 	FIXES
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
