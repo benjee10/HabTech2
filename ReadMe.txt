@@ -257,6 +257,7 @@ CHANGELOG
 	- Added Common Berthing Mechanism
 
 LICENSE & CREDITS
-HabTech2 artwork is copyright Benedict Jewer 2019-2023. All Rights Reserved. 
+HabTech2 artwork is copyright Benedict Jewer 2019-2024. All Rights Reserved. 
+Space Station Freedom Hangar & Truss parts by LilBread402
 InvetoryUpgrades plugin by ValiZockt
 Dependencies are bundled under their respective licenses. 
