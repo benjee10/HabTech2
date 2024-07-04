@@ -42,8 +42,13 @@ COMPATIBILITY
 - Neptune Camera - provides camera functionality for camera mast part
 - Waterfall - Waterfall FX are provided for lights and RCS thrusters
 - Limited support for TAC LS
-- Community Category Kit - adapted from configs by Lennon
+- Community Category Kit
 
+CREDITS
+Artwork & parts by Benjee10
+SSF hangar & truss parts by LilBread402
+InventoryUpgrades plugin by ValiZockt
+CCK configs by Lennon & Benjee10
 
 CHANGELOG
 
@@ -256,7 +261,6 @@ CHANGELOG
 	- Added standalone handrail (x1, x2 & x3)
 	- Added Common Berthing Mechanism
 
-LICENSE & CREDITS
-HabTech2 artwork is copyright Benedict Jewer 2019-2023. All Rights Reserved. 
-InvetoryUpgrades plugin by ValiZockt
+LICENSE
+HabTech2 artwork is copyright Benedict Jewer 2019-2024. All Rights Reserved. 
 Dependencies are bundled under their respective licenses. 
