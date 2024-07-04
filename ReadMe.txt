@@ -63,7 +63,8 @@ CHANGELOG
 	- Added heavy-duty RCS parts (10 variants)
 
 	IMPROVEMENTS
-	- iROSA panels now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
+	- Added InventoryUpgrades plugin by ValiZockt
+	- iROSA panels are now added via InventoryUpgrade system; iROSA part can be dragged into inventory upgrade slot on SAW parts to add it to that part. Standalone SAW has a single slot, P/S3 & P/S6 have double slot
 	- Added KAL controller to relevant parts
 	- Rebalanced SGANT antenna part masses
 	- Adjusted part naming for consistency
@@ -73,10 +74,11 @@ CHANGELOG
 	- Added switchable trunnion pins for 2.5m parts
 	- Updated legacy textures (WIP)
 	- Added new reflective variant to pressurised modules (WIP)
+	- Added animated window covers for various parts
+	- Added animated airlock to Kibo part
 
 	FIXES
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
-	- Added InventoryUpgrades plugin by ValiZockt
 
 	COMPATIBILITY
 	- Added SystemHeat patch (WIP)
