@@ -82,6 +82,22 @@ CHANGELOG
 	- Added animated window covers for various parts
 	- Added animated airlock to Kibo part
 
+	UPGRADE RACKS (heavily WIP)
+	Certain parts can now be configured using inventory upgrades:
+
+		UTILITY RACKS can be equipped with utility rack parts to add additional functionality to the part. 
+		Currently these include:
+			- Command point
+			- Experience management
+			- SAS
+			- Data transmitter
+			- Robotics controller (for EasyRobotics)
+			- Probe control point
+			- KerbNet access
+		SCIENCE RACKS can be equipped with science rack parts to add additional science experiments to the part. (Currently very WIP)
+
+		SAMPLE CONTAINERS are required by certain experiments. (Currently very WIP)
+
 	FIXES
 	- Fixed issue with some truss connector ports lacking a dockingNode transform
 
